@@ -1,2 +1,6 @@
-# learning-yaml-linting
-Learning YAML Linting
+learning-yaml-linting
+# Learning YAML Linting
+
+```
+yamllint
+```
